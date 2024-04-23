@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="signin">sign in</string>
+    <string name="signup">sign up</string>
+    <string name="youarenthereup">You arent here. sign up</string>
+    <string name="youarentherein">You arent here. sign in</string>
+    <string name="sitronics">sitronics</string>
+</resources>
